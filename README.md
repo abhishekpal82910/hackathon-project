@@ -98,3 +98,4 @@ As strictly mandated by the SIH prototype prompt:
 
 - **Browser WebGL:** Hardware acceleration must be enabled in the browser for optimal 60 FPS rendering.
 - **Data Persistence:** Relies on deterministic in-memory bundled data structures conforming to the SQLite data schema; does not persist user edits to disk in prototype mode.
+

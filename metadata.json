@@ -1,0 +1,6 @@
+{
+  "name": "3D ULPIN & Vertical Property Mapping System",
+  "description": "GIGW 3.0-aligned volumetric cadastre and 3D vertical property mapping prototype extending ULPIN (Bhu-Aadhaar) to multi-level above and underground parcels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
